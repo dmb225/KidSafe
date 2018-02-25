@@ -1,6 +1,6 @@
 ## Installation
 
-$ git clone https://github.com/dmb225/KidSafe.git-sdk.git
+$ git clone https://github.com/dmb225/KidSafe.git
 $ cd KidSafe
 $ npm install
 
